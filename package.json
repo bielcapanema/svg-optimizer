@@ -1,5 +1,5 @@
 {
-  "name": "svg-sprite-boilerplate",
+  "name": "svg-optimazer",
   "version": "1.0.0",
   "description": "É um boilerplate em Gulp para criar sprites em SVG.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "sprites",
     "gulp"
   ],
-  "author": "Willian Justen de Vasconcellos <willianjustenqui@gmail.com> (http://willianjusten.com.br/)",
+  "author": "Gabriel Capanema <capanema.ggfc@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",

@@ -27,3 +27,7 @@ $ npm install
 ```sh
 $ gulp sprites
 ```
+
+#### Arquivo com os sprites gerados: sprite/sprite.svg
+
+#### Arquivo exemplo com os prites para visialização: sprites/sprite.symbol.html

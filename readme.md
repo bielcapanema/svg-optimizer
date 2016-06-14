@@ -2,7 +2,9 @@
 
 > É um boilerplate em Gulp para criar sprites em SVG.
 
-> Feito a partir do curso de SVG do [Willian Justen](http://github.com/willianjusten/).
+> Gera um arquivo svg com symbols de todos seus icones svg e ainda uma página para a visualização.
+
+> Feito a partir do curso de SVG do [Willian Justen](http://github.com/willianjusten/) utilizando **gulp-svg-sprite**.
 
 > Se quiser, vale a pena dar uma conferida nos [cursos](https://willianjusten.com.br/cursos/) do Will.
 
@@ -23,6 +25,7 @@
 ```sh
 $ npm install
 ```
+#### Adicione seus sprites .svg  na pasta icons
 
 #### Criando os sprites:
 

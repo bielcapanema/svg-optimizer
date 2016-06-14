@@ -2,7 +2,8 @@
 
 > É um boilerplate em Gulp para criar sprites em SVG.
 
-> Feito a partir do curso de SVG do [Willian Justen](http://github.com/willianjusten).
+> Feito a partir do curso de SVG do [Willian Justen](http://github.com/willianjusten/).
+> Se quiser, vale a pena dar uma conferida nos [cursos](https://willianjusten.com.br/cursos/) do Will.
 
 ## Iniciando 
 
@@ -22,7 +23,7 @@
 $ npm install
 ```
 
-#### Criando os sprites
+#### Criando os sprites:
 
 ```sh
 $ gulp sprites
